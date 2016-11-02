@@ -47,7 +47,7 @@ a:hover {
 }
 
 #main h1 {
-    background-image: url(/assets/cloud-outline.png);
+    background-image: url(/images/cloud-outline.png);
     background-size: 150px;
     background-repeat: no-repeat;
     /*
@@ -93,7 +93,7 @@ a:hover {
 }
 
 #cloud-1 {
-    background-image: url(assets/cloud1a.png);
+    background-image: url(/images/cloud1a.png);
     height: 556px;
     width: 826px;
     z-index: 400;
@@ -102,7 +102,7 @@ a:hover {
 }
 
 #cloud-2 {
-    background-image: url(assets/cloud2a.png);
+    background-image: url(/images/cloud2a.png);
     height: 534px;
     width: 901px;
     right: 200px;
@@ -112,7 +112,7 @@ a:hover {
 }
 
 #cloud-3 {
-    background-image: url(assets/cloud3a.png);
+    background-image: url(/images/cloud3a.png);
     height: 680px;
     width: 853px;
     z-index: 300;
@@ -121,7 +121,7 @@ a:hover {
 }
 
 #cloud-4 {
-    background-image: url(assets/cloud4a.png);
+    background-image: url(/images/cloud4a.png);
     height: 1000px;
     width: 1307px;
     left: 500px;
